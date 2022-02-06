@@ -6,6 +6,7 @@ author: "Malachy Reynolds"
 categories: jekyll update
 ---
 # What is the UCC DataSoc
-UCC DataSoc, short for the Data and Analytics Society, is a 
+UCC DataSoc, short for the Data and Analytics Society, was founded in 2020 making it one of the newest societies in UCC.
+
 
 ---
