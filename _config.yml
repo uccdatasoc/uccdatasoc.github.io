@@ -26,6 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://uccdatasoc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uccdatasoc
 github_username:  uccdatasoc
+facebook_username: UCCDataSoc
+instagram_username: uccdatasoc
+linkedin_username: uccdata
+
 
 # Build settings
 theme: minima
