@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to UCC DataSoc"
+title:  "Upcoming UCC DataSoc Events"
 date:   2022-02-06 07:50:00 +0000
 author: "Malachy Reynolds"
 categories: jekyll update
